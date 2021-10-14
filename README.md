@@ -1,2 +1,0 @@
-# .github
-kerhub GitHub profile
